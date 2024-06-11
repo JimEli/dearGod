@@ -54,7 +54,7 @@ img {
 
 #contacts {
   position: absolute;
-  bottom: 50px;
+  bottom: 30px;
 }
 
 @media only screen and (max-device-width: 800px) {
